@@ -499,16 +499,36 @@ export const equipo = [
     imagen: "/equipo/alberto_rojo.jpeg",
   },
   {
-    name: "Diego Valdez",
+    name: "Arumi Aguilar",
     description: "Marketing",
     description2: "Marketing",
-    imagen: "/equipo/diego_valdez.webp",
+    imagen: "/equipo/Arumi.webp",
   },
   {
     name: "Paula Lima",
     description: "Ejecutiva de Cuentas",
     description2: "Account Executive",
     imagen: "/equipo/Paula.jpeg",
+  },{
+    name: "Ángela España",
+    description: "Ejecutiva de Ventas",
+    description2: "Sales Executive",
+    imagen: "/equipo/Angela.webp",
+  },{
+    name: "Gabriela Real",
+    description: "Ejecutiva de Ventas",
+    description2: "Sales Executive",
+    imagen: "/equipo/Gabriela.webp",
+  },{
+    name: "Christian Wever",
+    description: "Ejecutivo de Ventas",
+    description2: "Sales Executive",
+    imagen: "/equipo/Christian.webp",
+  },{
+    name: "Diana Araujo",
+    description: "Sobrecargo",
+    description2: "Sales Executive",
+    imagen: "/equipo/Diana.webp",
   },
   // {
   //   name: "Carolina Restrepo",
